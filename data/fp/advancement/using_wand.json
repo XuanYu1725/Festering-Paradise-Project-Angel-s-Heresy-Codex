@@ -1,0 +1,19 @@
+{
+    "criteria": {
+        "using_wand":{
+            "trigger": "using_item",
+            "conditions": {
+                "item": {
+                    "components": {
+                        "custom_data": {
+                            "category": "wand"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "fp:trigger/using_wand"
+    }
+}
