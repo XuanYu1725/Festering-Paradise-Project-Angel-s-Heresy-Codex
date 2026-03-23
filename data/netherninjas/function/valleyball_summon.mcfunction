@@ -21,7 +21,7 @@ summon item ~ ~ ~ {\
                 transformation:{\
                     left_rotation:{axis:[0.0f, 0.0f, 0.0f], angle:0.0f},\
                     scale:[1.0f, 1.0f, 1.0f],\
-                    translation:[0.0f, 0.3f, 0.0f],\
+                    translation:[0.0f, 0.25f, 0.0f],\
                     right_rotation:{axis:[0.0f, 0.0f, 0.0f], angle:0.0f}\
                 }\
             }\
