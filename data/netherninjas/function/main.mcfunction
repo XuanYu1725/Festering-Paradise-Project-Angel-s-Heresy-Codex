@@ -1,0 +1,1 @@
+execute as @e[tag=VolleyballInstance] run function netherninjas:valleyball_main

@@ -6,7 +6,15 @@ summon item ~ ~ ~ {\
         Passengers:[\
             {\
                 id:"interaction",\
-                response:1b\
+                width:0.0f,height:-0.25f,\
+                Tags:["HitboxOffset"],\
+                Passengers:[\
+                    {\
+                        id:"interaction",\
+                        response:1b,\
+                        Tags:["VolleyballInteraction"]\
+                    }\
+                ]\
             },{\
                 id:"item_display",\
                 item:{"id":"music_disc_11",components:{item_model:"netherninjas:entity/ball_volley"},count:1},\

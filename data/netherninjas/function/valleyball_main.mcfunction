@@ -1,0 +1,1 @@
+execute on passengers on passengers if entity @s[tag=VolleyballInteraction] run function netherninjas:_hit
